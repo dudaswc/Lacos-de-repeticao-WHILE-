@@ -33,7 +33,7 @@ if media_negativo !=0:
 else:
    print("Não podemos fazer divisão por 0")
    
-#eu boto o último if pq se eu fizesse um código sem um número 0 ou um número negativo, não ia dar certo
+#Eu boto o último if porque se eu fizesse um código sem um número 0 ou um número negativo, não ia dar certo.
 
 
 2- Faça um programa que leia o preço de compra e o preço de venda de 5 esculturas que serão expostas em uma galeria, 
